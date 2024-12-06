@@ -1,0 +1,1 @@
+ /home/vitor/Documentos/tcc/work_insertion/.dart_tool/flutter_build/e0d03825d2c3132cb36032e39790fe3f/native_assets.yaml: 

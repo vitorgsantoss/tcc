@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">52118262744</string>
+    <string name="google_api_key" translatable="false">AIzaSyCrN-IM7KCkg_ZeO1NEFqAn0EqB6yP735g</string>
+    <string name="google_app_id" translatable="false">1:52118262744:android:58c0fee8f6520707f3d8ad</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCrN-IM7KCkg_ZeO1NEFqAn0EqB6yP735g</string>
+    <string name="google_storage_bucket" translatable="false">workinsertion-a2b02.appspot.com</string>
+    <string name="project_id" translatable="false">workinsertion-a2b02</string>
+</resources>

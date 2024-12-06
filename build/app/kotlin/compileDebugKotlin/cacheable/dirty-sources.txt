@@ -1,0 +1,1 @@
+/home/vitor/Documentos/tcc/work_insertion/android/app/src/main/kotlin/com/example/work_insertion/MainActivity.kt

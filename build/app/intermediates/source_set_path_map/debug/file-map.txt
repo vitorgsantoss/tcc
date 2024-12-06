@@ -1,0 +1,13 @@
+com.example.work_insertion.app-core-1.2.0-0 /home/vitor/.gradle/caches/transforms-3/7125187d2e894a051c04e8d455882bee/transformed/core-1.2.0/res
+com.example.work_insertion.app-jetified-play-services-basement-18.1.0-1 /home/vitor/.gradle/caches/transforms-3/b593dc37a5ef7423972394e6296399a6/transformed/jetified-play-services-basement-18.1.0/res
+com.example.work_insertion.app-coordinatorlayout-1.0.0-2 /home/vitor/.gradle/caches/transforms-3/dcc4ad8846b7398c51bfee55d9ad544a/transformed/coordinatorlayout-1.0.0/res
+com.example.work_insertion.app-jetified-firebase-common-20.3.3-3 /home/vitor/.gradle/caches/transforms-3/ff289a87b729431acdfb34ddc6f1e6c8/transformed/jetified-firebase-common-20.3.3/res
+com.example.work_insertion.app-debug-4 /home/vitor/Documentos/tcc/work_insertion/android/app/src/debug/res
+com.example.work_insertion.app-main-5 /home/vitor/Documentos/tcc/work_insertion/android/app/src/main/res
+com.example.work_insertion.app-google-services-6 /home/vitor/Documentos/tcc/work_insertion/build/app/generated/res/google-services/debug
+com.example.work_insertion.app-pngs-7 /home/vitor/Documentos/tcc/work_insertion/build/app/generated/res/pngs/debug
+com.example.work_insertion.app-resValues-8 /home/vitor/Documentos/tcc/work_insertion/build/app/generated/res/resValues/debug
+com.example.work_insertion.app-rs-9 /home/vitor/Documentos/tcc/work_insertion/build/app/generated/res/rs/debug
+com.example.work_insertion.app-mergeDebugResources-10 /home/vitor/Documentos/tcc/work_insertion/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.work_insertion.app-mergeDebugResources-11 /home/vitor/Documentos/tcc/work_insertion/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.work_insertion.app-merged_res-12 /home/vitor/Documentos/tcc/work_insertion/build/app/intermediates/merged_res/debug
